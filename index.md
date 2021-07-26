@@ -4,3 +4,5 @@ follow https://github.com/TymanWasTaken/akairo-typescript-template until you are
 
 
 i will finish this once i am not lazy
+
+read ./commands.md
