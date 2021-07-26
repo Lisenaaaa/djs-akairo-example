@@ -1,2 +1,4 @@
 # djs-akairo-example
-i mean it exists
+
+follow https://github.com/TymanWasTaken/akairo-typescript-template until you are finished
+i will finish this once i am not lazy
