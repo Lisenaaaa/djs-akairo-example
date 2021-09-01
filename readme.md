@@ -35,4 +35,4 @@ All they do is take a message, and return a boolean. If it's true, then the mess
 const blacklist = ['322862723090219008', '496409778822709251']
 ```
 
-For listeners, read https://github.com/Zordlan/djs-akairo-example/blob/main/listeners.md
+For listeners, read [this](listeners.md)
