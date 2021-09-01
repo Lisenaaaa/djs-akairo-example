@@ -16,7 +16,7 @@ export default class className extends BotThing {
 
 	public async exec() {
 		console.log('Hello!')
-    }
+	}
 }
 ```
 Of course, you'll replace all mentions of `BotThing` with `BotCommand`, `BotListener`, `BotInhibitor`, or `BotTask`.
